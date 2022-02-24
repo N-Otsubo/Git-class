@@ -89,3 +89,29 @@ git push origin fix
 ### forkを使ってみる
 1. リポジトリをforkする
 
+### issuesを使ってみよう
+1. issuesの作成
+- issuesは、リポジトリごとに管理されます
+- リポジトリのトップページから[Issues]タブを選択し、[New issue]をクリックする
+
+![image](https://user-images.githubusercontent.com/41432482/155464030-4b0ac63d-adf7-4d77-ac6a-7909f574ca91.png)
+![image](https://user-images.githubusercontent.com/41432482/155464051-17876d7e-f313-4948-90f9-cd43bb48d5e3.png)
+
+2. issueのタイトルや内容を記述する
+- タイトルは一目である程度内容がわかるものにする
+- 内容はMarkdown記法で記述する
+
+![image](https://user-images.githubusercontent.com/41432482/155465149-a66e8576-2457-4ab5-9af6-c36cc2c5b752.png)
+
+
+3. issueの担当者を決める
+
+![image](https://user-images.githubusercontent.com/41432482/155465400-eeed0b79-8a84-4053-82bc-002670f464d2.png)
+
+
+4. issueを閉じる
+
+![image](https://user-images.githubusercontent.com/41432482/155465611-61c9446c-296d-4949-b91a-b707b76c296b.png)
+![image](https://user-images.githubusercontent.com/41432482/155465706-e7518580-3b47-46ea-ad49-f2914dfdaf0e.png)
+![image](https://user-images.githubusercontent.com/41432482/155465763-fea86f4e-3f55-4df0-b2a8-25473d9e02d5.png)
+
